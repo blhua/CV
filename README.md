@@ -1,4 +1,5 @@
 # Biological Data Scientist
+Data scientist with 14 years of research experience in microbiology, synthetic biology, and cell biology.
 
 ## Work Experience
 **Senior Scientist II at Gritstone bio (_June 2021 - Present_)**
