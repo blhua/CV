@@ -1,20 +1,41 @@
 # Biological Data Scientist
-Data scientist with 14 years of research experience in microbiology, synthetic biology, and cell biology.
+Data scientist and molecular biologist with 14 years of research experience in microbiology, synthetic biology, and cell biology.
 
 ## Work Experience
 **Senior Scientist II at Gritstone bio (_June 2021 - Present_)**
-- Led the multi-respiratory virus vaccine project
+- Led the pre-IND work for the multi-respiratory virus vaccine project as principal scientist and project manager allowing selection of a clinical candidate vaccine
+- Created and implemented a _de novo_ next-generation sequencing analysis computational pipeline for plasmid sequence verification, improving processing time over manual methods from hours to minutes
 
 **Scientist II at Zymergen (_October 2018 - June 2021_)**
-- Led a bacterial strain engineering program
+- Utilized computational methods to design combinatorial, multi-gene constructs _in silico_ and oversaw the construction of more than 3,000 engineered bacterial strains for increased biosynthetic product yield
+- Performed phylogenetic analyses and molecular design for the expression of more than 250 novel biosynthetic gene clusters to build Zymergen’s natural product portfolio
+- Drove technical updates and project steering meetings with a high-profile external collaborator
 
 **Post-doctoral Research Fellow at the CDC (_October 2016 - October 2018_)**
-- Led the computational design of bacteriophage library of 9447 distinct peptides for the development of pan-viral serological assay
+- Leveraged computational methods to design a library of 9447 distinct viral peptides for a novel serology assay to detect emerging viruses
+- Elucidated key molecular mechanisms underlying strain-specific pathogenicity of Crimean-Congo hemorrhagic fever virus
+
+**Graduate Research Associate at MIT (_June 2011 - October 2016_)**
+- Generated genome-wide DNA copy number and transcriptome profiles in five distinct Drosophila tissues and analyzed datasets using sequence alignment pipelines on high-performance computing clusters
+- Uncovered novel mechanisms regulating differential replication in Drosophila development
 
 ## Projects
 
-**Mammalian RNA secondary structure and protein expression - Gritstone bio (_May 2023-July 2023_)**
-- Developed a pipeline to parse every gene of the human genome for RNA secondary structures near the transcriptional start site and match it with proteomic data for expression levels.
+**Automated tracking of SARS-CoV-2 variant predominance- Gritstone bio (_March 2024 - Present_)**
+- Utilized the CDC SARS-CoV-2 variant database API to pull variant frequency data at regular intervals
+- Cleaned and transformed data using pandas to determine changes in predominant variants in the USA
+- Working to deploy tool to the cloud that alerts users of new variants, their frequencies of detection, and their associated sequence records
+
+**Genome-wide analysis of RNA secondary structure and mammalian gene expression - Gritstone bio (_June 2023 - July 2023_)**
+- Utilized Biopython to parse human genome sequence and extract 5’ CDS regions transcriptome-wide
+- -Created a bash pipeline to assess RNA secondary structure of all human genes using RNAfold
+- Parsed and aggregated proteomics datasets from HEK293 cells with gene sequences using pandas
+- Established correlation of strong RNA secondary structure at transcription start site region with increased protein expression
+
+**Stock trend analysis and automated tradin (_June 2022 - December 2023_)**
+- Leveraged Yahoo Finance and Alpaca Trading APIs to download daily stock metrics for all tickers on the NYSE
+- Calculated moving averages and performed linear regression of stock price using pandas and scikit-learn
+- Automated buying and selling of securities using various trading strategies on a paper account with the top strategy achieving a 10.6% return over the course of two months
 
 ## Skills
 - **Languages**: Python, SQL
