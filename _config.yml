@@ -4,3 +4,4 @@ logo: /assets/images/portrait_circle_crop.png
 theme: jekyll-theme-minimal
 github:
   is_product_page: false
+full-width: true
