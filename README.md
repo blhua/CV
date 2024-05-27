@@ -2,11 +2,11 @@
 Data scientist and molecular biologist with 14 years of research experience in microbiology, synthetic biology, and cell biology.
 
 ## Work Experience
-**Senior Scientist II at Gritstone bio (_June 2021 - Present_)**
+**Senior Scientist I through II at Gritstone bio (_June 2021 - Present_)**
 - Led the pre-IND work for the multi-respiratory virus vaccine project as principal scientist and project manager allowing selection of a clinical candidate vaccine
 - Created and implemented a _de novo_ next-generation sequencing analysis computational pipeline for plasmid sequence verification, improving processing time over manual methods from hours to minutes
 
-**Scientist II at Zymergen (_October 2018 - June 2021_)**
+**Scientist I through II at Zymergen (_October 2018 - June 2021_)**
 - Utilized computational methods to design combinatorial, multi-gene constructs _in silico_ and oversaw the construction of more than 3,000 engineered bacterial strains for increased biosynthetic product yield
 - Performed phylogenetic analyses and molecular design for the expression of more than 250 novel biosynthetic gene clusters to build Zymergen’s natural product portfolio
 - Drove technical updates and project steering meetings with a high-profile external collaborator
@@ -27,21 +27,20 @@ Data scientist and molecular biologist with 14 years of research experience in m
 - Working to deploy tool to the cloud that alerts users of new variants, their frequencies of detection, and their associated sequence records
 
 **Genome-wide analysis of RNA secondary structure and mammalian gene expression - Gritstone bio (_June 2023 - July 2023_)**
-- Utilized Biopython to parse human genome sequence and extract 5’ CDS regions transcriptome-wide
-- -Created a bash pipeline to assess RNA secondary structure of all human genes using RNAfold
+- Utilized Biopython to parse human genome sequence and extract defined regions around the start codon transcriptome-wide
+- Created a bash pipeline to assess RNA secondary structure of all human genes using RNAfold
 - Parsed and aggregated proteomics datasets from HEK293 cells with gene sequences using pandas
 - Established correlation of strong RNA secondary structure at transcription start site region with increased protein expression
 
-**Stock trend analysis and automated tradin (_June 2022 - December 2023_)**
-- Leveraged Yahoo Finance and Alpaca Trading APIs to download daily stock metrics for all tickers on the NYSE
-- Calculated moving averages and performed linear regression of stock price using pandas and scikit-learn
-- Automated buying and selling of securities using various trading strategies on a paper account with the top strategy achieving a 10.6% return over the course of two months
+**Identification of highly-conserved epitopes in viral sequences (_June 2022 - December 2023_)**
+- Leveraged Python to assess conservation at each amino acid position in a multiple-sequence alignment
+- Extracted candidate 8-, 9-, 10-, and 11-mer epitope sequences with high levels of conservation for T-cell based therapeutic design
 
 ## Skills
 - **Languages**: Python, SQL
 - **Data science pipeline**: Querying, cleaning, aggregating, data visualization, descriptive statistics, hypothesis testing
-  - Python - pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, scipy, biopython, beautifulsoup4
-  - MySQL
+  - Python - pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, scipy, statsmodels, biopython, beautifulsoup4
+  - MySQL, BigQuery
 - **Project management**: Project scoping, technical data presentation, management of external collaborators/ CROs, management of direct reports
 
 ## Education
