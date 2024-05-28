@@ -32,9 +32,9 @@ Data scientist and molecular biologist with 14 years of research experience in m
 - Parsed and aggregated proteomics datasets from HEK293 cells with gene sequences using pandas
 - Established correlation of strong RNA secondary structure at transcription start site region with increased protein expression
 
-**Identification of highly-conserved epitopes in viral sequences (_June 2022 - December 2023_)**
+**Identification of highly-conserved epitopes in viral sequences - Gritstone bio (_June 2022 - December 2023_)**
 - Leveraged Python to assess conservation at each amino acid position in a multiple-sequence alignment
-- Extracted candidate 8-, 9-, 10-, and 11-mer epitope sequences with high levels of conservation for T-cell based therapeutic design
+- Extracted candidate 8-, 9-, 10-, and 11-mer epitope sequences with high levels of conservation for T cell-based therapeutic design
 
 ## Skills
 - **Languages**: Python, SQL
