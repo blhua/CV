@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 title: Brian Hua
 logo: /assets/images/portrait_circle_crop.png
-description: "[Project portfolio](https://blhua.github.io/portfolio/)"
+description: <a href="https://blhua.github.io/portfolio/">View my project portfolio</a>
 theme: jekyll-theme-minimal
 github:
   is_product_page: false
